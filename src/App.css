@@ -1,0 +1,11 @@
+/* src/App.css */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+body.dark-mode {
+  background-color: #282c34;
+  color: white;
+}
