@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.112581bf.css","mappings":"AACA,WAEE,aAAc,CADd,eAAgB,CAEhB,YACF,CAEA,eACE,wBAAyB,CACzB,UACF","sources":["App.css"],"sourcesContent":["/* src/App.css */\n.container {\n  max-width: 960px;\n  margin: 0 auto;\n  padding: 20px;\n}\n\nbody.dark-mode {\n  background-color: #282c34;\n  color: white;\n}\n"],"names":[],"sourceRoot":""}
