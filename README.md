@@ -23,7 +23,7 @@ TextUtils is a simple and easy-to-use web application built with React for manip
 * **[Bootstrap](https://getbootstrap.com/)**: For modern, responsive UI components.
 * **[GitHub Pages](https://pages.github.com/)**: For hosting and deployment.
 
-## How to run this in your PC ( if you want to try it out locally in your own computer )
+## Try in your own PC-
 
 To run this project on your local machine, follow these simple steps.
 
