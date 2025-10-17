@@ -4,6 +4,8 @@
 
 TextUtils is a simple and easy-to-use web application built with React for manipulating your text. It provides a clean, modern interface with dark mode support, allowing you to quickly perform common text operations.
 
+Note - press on textUtils in navbar to begin
+
 ## ✨ Features
 
 * **Convert to Uppercase:** Instantly transforms all text to uppercase.
