@@ -1,6 +1,6 @@
 # TextUtils - React Text Utility App
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue.svg)](https://Aaditya-ops-cpu.github.io/Text-utility-react-app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue.svg)](https://aaditya-ops-cpu.github.io/Improved-Text-utility-react-app/)
 
 TextUtils is a simple and easy-to-use web application built with React for manipulating your text. It provides a clean, modern interface with dark mode support, allowing you to quickly perform common text operations.
 
